@@ -16,7 +16,7 @@ Este proyecto te permite escuchar tus canciones favoritas en formatos populares 
 
 ## 🖥️ Captura de pantalla
 
-![Captura de pantalla del reproductor](screenshot.png)
+![Captura de pantalla del reproductor](/img/screenshot.png)
 
 ## 📦 Requisitos
 
@@ -57,12 +57,3 @@ Este proyecto te permite escuchar tus canciones favoritas en formatos populares 
 - Interfaz creada con [Flet](https://flet.dev/)
 - Reproducción de audio gracias a [python-vlc](https://pypi.org/project/python-vlc/)
 - Lectura de metadatos con [mutagen](https://mutagen.readthedocs.io/en/latest/)
-
-## 📄 Licencia
-
-Este proyecto se distribuye bajo la licencia MIT.
-
----
-
-¡Disfruta tu música con estilo!  
-Si te gusta este proyecto, no olvides darle ⭐ en GitHub.
